@@ -1,4 +1,10 @@
-github test
+github tes
+t
 30th oct
+<<<<<<< HEAD
 2nd line test
 after git add
+time 4.17 before revert
+=======
+>>>>>>> parent of fd21e13 (2st testfile)
+
